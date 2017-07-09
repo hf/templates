@@ -1,0 +1,10 @@
+*.swp
+*.log
+*.out
+*.aux
+
+*.pyc
+*.class
+
+node_modules
+
